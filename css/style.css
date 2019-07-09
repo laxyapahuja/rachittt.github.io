@@ -14,6 +14,10 @@ h6 {
   color: #1e1e1e;
 }
 
+#plus{
+  font-size: 150%;
+}
+
 a {
   color: #1e1e1e;
   transition: all 0.5s ease-in-out;
