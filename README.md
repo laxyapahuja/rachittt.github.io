@@ -1,2 +1,3 @@
 <h3> Portfolio Website </h3>
-[view here](http://rachittt.github.io)
+
+[View here](https://rachittt.github.io)
