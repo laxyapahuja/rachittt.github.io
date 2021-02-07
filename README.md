@@ -1,3 +1,3 @@
 <h3> Portfolio Website </h3>
 
-[View here](https://rachittt.github.io)
+[View here](https://laxyapahuja.github.io/rachittt.github.io)
